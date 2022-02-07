@@ -750,7 +750,7 @@ losing_player_c = ["Yellow", "Purple", "Green", "Blue"]
 print(check_winner((winning_player, losing_player_a, losing_player_b)))
 print(check_winner((losing_player_a, losing_player_b, losing_player_c)))
 print(check_winner((losing_player_b, losing_player_c, winning_player)))
-###################################################################
+######################################################################
 # Binary serach O notation
 def binary_search(n):     # binary search big O notation is similar to log 2 n or 2 raised to the power of 'x' times yields n_times
     # the complexity of the Algorithm is always 1 plus O(log n)
