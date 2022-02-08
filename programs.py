@@ -152,7 +152,7 @@ print(sign)
 #print(type(sign))
 ####################################################
 # File write method
-word_list = ['Go', 'Fuck', 'Yourself', 'Karen']
+word_list = ['Karen', 'is', 'always', 'angry']
 
 int_file = open('test.txt', 'w')
 
